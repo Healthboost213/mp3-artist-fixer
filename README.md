@@ -3,8 +3,8 @@ Some downloaders tend to include all the artists that worked on a track in the t
 
 The folder structure is a little rigid but you can change it easily by modifying source and adjusting the iterations. The path needs to be changed before running as well. It's `'.\music'` by default.
 
-**Assumed folder structure:**
+**Assumed folder structure:**  
 Music Folder > Artist Name > Album Name > Track Name
 
-Check out my blog 👇
+Check out my blog 👇  
 [monospace](https://healthboost213.neocities.org)
