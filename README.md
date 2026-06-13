@@ -5,6 +5,3 @@ The folder structure is a little rigid but you can change it easily by modifying
 
 **Assumed folder structure:**  
 Music Folder > Artist Name > Album Name > Track Name
-
-Check out my blog 👇  
-[monospace](https://healthboost213.neocities.org)
